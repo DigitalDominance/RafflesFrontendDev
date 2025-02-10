@@ -2,7 +2,6 @@
   "name": "kaspa-raffles-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://raffles.kaspercoin.net",
   "dependencies": {
     "axios": "^0.27.2",
     "react": "^18.2.0",
